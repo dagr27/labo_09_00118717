@@ -1,0 +1,21 @@
+Parte 1
+1. Permite realizar la peticion de datos y recursos
+2. Permite trabajar con archivos del sistema
+3. Son extensiones que espesifican el tipo de archivo que se esta usando.
+Parte 2
+1. Req contiene la peticion y res la respuesta del lado del servidor
+2. Si el puerto esta usado va a dar error
+3. Permite recuperar o recolectar la informacion del archivo que se va a usar en el servidor
+Parte 3
+1. Para ubicar la ruta o el archivo a usar
+Parte 4
+1. Escribe el contenido de data que es la informacion de la pagina en el body de la respuesta.
+Parte 5
+1. El tipo de lenguaje que se esta mandando a traves de la respuesta
+Parte 6
+1. Un arreglo con los datos del HTML
+2. Para convertir los datos que vienen en la respuesta a string y poderlos accesar de manera mas facil 
+Preguntas extras
+1. Si, no reconoce el tipo de archivo, por lo tanto no aplica el estilo
+2. SI inicia una vez por proyecto.
+3. Porque asi se puede comprender a groso modos los procesos que el servidor hace en conjunto con las peticiones y los lenguajes que interactuan en un pagina web
